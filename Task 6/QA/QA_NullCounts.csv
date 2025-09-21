@@ -1,0 +1,2 @@
+AppointmentID,PatientId,ScheduledDay,AppointmentDay,Neighbourhood,No-show,Age,AppointmentDate,Year,Month,DayOfWeek,AgeGrouped
+0,0,0,0,0,0,0,0,0,0,0,0
